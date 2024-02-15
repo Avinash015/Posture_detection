@@ -1,0 +1,6 @@
+# JavaScript (p5.js) Dependencies
+ml5@latest
+p5@1.4.0
+
+# C++ Dependencies
+opencv-python
