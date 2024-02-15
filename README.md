@@ -1,4 +1,4 @@
-
+live : https://avinash015.github.io/Posture_detection/
 # Pose Detection and Analysis with PoseNet
 
 This project demonstrates the use of PoseNet, a machine learning model, to detect and analyze human poses in real-time using webcams or video feeds. The project is implemented using JavaScript (with p5.js library) and C++ (with OpenCV library).
